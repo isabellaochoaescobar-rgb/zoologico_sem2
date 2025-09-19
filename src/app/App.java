@@ -13,7 +13,7 @@ public class App {
         Animal animal4 = new Lobo("Zoo UQ", "123", "Lobo","Nicole", "12", "Bosque", 5);
         Animal animal5 = new Pantera("Zoo UQ", "123", "Pantera", "Jose", 8, "19", "Selva", 11);
 
-
+        //agregar animales a zoologico
         zoo.registrarAnimal(animal1);
         zoo.registrarAnimal(animal2);
         zoo.registrarAnimal(animal3);
